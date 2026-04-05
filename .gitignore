@@ -1,0 +1,39 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+maven-metadata-local.xml
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Logs and outputs
+*.log
+connectivity_output.txt
+*.dat  # Note: keep library_data.dat manually if needed
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+tmp/
+temp/
